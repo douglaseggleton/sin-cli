@@ -1,5 +1,5 @@
 # sin-cli
-A handy way to generate a random valid Canadian social insurance number.
+A handy way to generate a random valid 🇨🇦 Canadian social insurance number.
 
 ## Installation
 ```
@@ -12,6 +12,6 @@ sin
 ```
 
 Example ouput:
-671195121 (Copied to Clipboard)
+671195121
 
-The output will be automatically copied to your clipboard.
+The output will be automatically copied to your clipboard 📋
